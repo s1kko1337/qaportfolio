@@ -99,13 +99,3 @@
 [![Email](https://img.shields.io/badge/Email-0066CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.melo2015@yandex.ru)
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Просмотры%20профиля&color=4A90E2&style=flat" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <i>⭐️ Готов к новым вызовам и обучению!</i>
-</div>
